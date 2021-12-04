@@ -1,4 +1,4 @@
-===리눅스 클라이언트
+//===리눅스 클라이언트
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
