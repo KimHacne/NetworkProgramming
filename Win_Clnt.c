@@ -1,4 +1,4 @@
-===윈속 클라이언트
+//===윈속 클라이언트
 #define _CRT_SECURE_NO_WARNINGS
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 
